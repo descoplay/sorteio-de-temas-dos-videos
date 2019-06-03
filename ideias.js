@@ -46,10 +46,11 @@ module.exports = {
             "app irá determinar automáticamente o que cada um deve comprar para a compra total " +
             "sair mais barata, inclusive considerando valor estimado de transporte caso " +
             "necessário.",
-            "Divisão de conta": "App para dividir uma conta, podendo cadastrar diferentes pessoas " +
-                "itens e quais deles cada um consumiu (podendo dividir um item entre diferentes " +
-                "pessoas) e a possibilidade de adicionar ou não os 10% do garçom.",
-            "Cronômetro": "Com a função progressiva e regressiva (podendo alertar)"
+        "Divisão de conta": "App para dividir uma conta, podendo cadastrar diferentes pessoas " +
+            "itens e quais deles cada um consumiu (podendo dividir um item entre diferentes " +
+            "pessoas) e a possibilidade de adicionar ou não os 10% do garçom.",
+        "Cronômetro": "Com a função progressiva e regressiva (podendo alertar)",
+        "EAD": "Sistema de ensino a distancia"
     },
     "backend": [
         "NodeJS",
